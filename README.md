@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **CP**
 - 📫 How to reach me: **vivekprajapat03@gmail.com**
 - 😄 Pronouns: he/him
+- ☕ JAVA Developer
 - ⚡ Fun fact: **Chess Player**
 
 
