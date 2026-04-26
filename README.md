@@ -1,25 +1,113 @@
-<h1 align="center">Hi👋, I am Vivek Prajapat</h1>
-<h3 align="center">A passionate developer from India pursuing BTECH Degree in Computer Science and Engineering from <a href="https://http://www.ggu.ac.in/"> <b>Guru Ghasidas Vishwavidyalaya</b>, Bilaspur</a>. </h3>
+<div align="center">
 
+# Vivek Prajapat
+### Backend Engineer · Java & Spring Boot · Building for Bharat 🇮🇳
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vkp00-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vkp00)
+[![Twitter](https://img.shields.io/badge/Twitter-@vkp__00-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vkp_00)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vkp__00-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/vkp_00)
+[![Codeforces](https://img.shields.io/badge/Codeforces-vkp__00-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vkp_00)
+[![Email](https://img.shields.io/badge/Email-vivekprajapat03@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekprajapat03@gmail.com)
 
-- 🔭 I’m currently working on **Problem Solving**
-- 💬 Ask me about **CP**
-- 📫 How to reach me: **vivekprajapat03@gmail.com**
-- 😄 Pronouns: he/him
-- ☕ JAVA Developer
-- ⚡ Fun fact: **Chess Player**
+</div>
 
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/vkp00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vkp00" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vkp_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vkp_00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vkp_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vkp_00" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Backend guy. Java is my home language, Spring Boot is where I spend most of my time. I like understanding how systems actually work — not just making things run, but knowing *why* they run.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vkp_00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vkp_00" /></a></p><br><br>
+Right now I'm building **BharatPOS**, a retail management backend for Indian small businesses, and grinding problems on Codeforces and LeetCode on the side. Off-screen I play chess ♟️
+
+Open to internships, collabs, and startup backend roles — vivekprajapat03@gmail.com
+
+---
+
+## Core Stack
+
+**Language:** Java 17+, C, C++, Python
+
+**Backend:** Spring Boot 3.x · Spring Security · Spring Data JPA · REST APIs
+
+**Auth & Security:** JWT (jjwt 0.12.x) · Role-Based Access Control · Spring Security Filters
+
+**Real-time:** WebSockets · STOMP protocol · Redis (pub/sub, caching)
+
+**Database:** PostgreSQL · MySQL · Hibernate ORM
+
+**DevOps / Infra:** Docker · Maven · Spring Boot Actuator
+
+**API Design:** OpenAPI / Swagger (springdoc) · Apache HttpClient 5
+
+---
+
+## Featured Projects
+
+### 🏪 [BharatPOS — Backend](https://github.com/vkp000/bharatpos-backend)
+> India-first Retail Business Management Software
+
+POS backend for Indian small businesses. Spring Boot 3.3 + JWT auth + PostgreSQL + Docker. Has proper Swagger docs and Actuator health checks — built to run, not just demo.
+
+**Stack:** `Spring Boot 3.3` · `Spring Security` · `JWT` · `PostgreSQL` · `JPA` · `Docker` · `OpenAPI`
+
+---
+
+### 💡 [catcherLight — Multi-user Backend Proxy](https://github.com/vkp000/catcherLight)
+> A real-time backend proxy supporting multiple concurrent users
+
+Most complex thing I've built. WebSockets + STOMP for real-time, Redis for caching, PostgreSQL for persistence, JWT for auth — all in one service. Dockerized and deployed at [catcher-light.vercel.app](https://catcher-light.vercel.app).
+
+**Stack:** `Spring Boot 3.5` · `WebSockets/STOMP` · `Redis` · `JWT` · `PostgreSQL` · `Docker` · `Apache HttpClient 5`
+
+---
+
+### 🔐 [SpringSecurityProject](https://github.com/vkp000/SpringSecurityProject)
+> JWT Auth & RBAC implementation
+
+Built this to deeply understand Spring Security — JWT-based stateless auth, USER/ADMIN roles, filter chain. Clean enough to use as a starter.
+
+**Stack:** `Spring Boot` · `Spring Security` · `JWT` · `RBAC`
+
+---
+
+### 🛒 [E-Store Spring Boot](https://github.com/vkp000/e-store-spring-boot)
+> E-commerce REST API
+
+JPA relationships, proper layered architecture (controller → service → repository), Spring Boot patterns — explored through an e-commerce domain.
+
+**Stack:** `Spring Boot` · `JPA` · `MySQL` · `REST`
+
+---
+
+## What I'm Good At
+
+- Security from the start — JWT + Spring Security isn't something I copy-paste, I've built it from scratch enough times to know the internals
+- Real-time stuff — WebSocket + Redis for live features (notifications, dashboards, chat)
+- Thinking about the Indian market — BharatPOS taught me things textbooks don't cover
+- Problem solving — competitive programming daily keeps the brain sharp when debugging gets weird
+
+---
+
+## Currently Exploring
+
+- Microservices patterns (event-driven architecture, message queues)
+- System design at scale
+- AI/ML integration with Java backends (Spring AI)
+
+---
+
+## Competitive Programming
+
+Active on LeetCode and Codeforces daily. Strong in: **Dynamic Programming · Graphs · Trees · Binary Search · Greedy**
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vkp_00?theme=dark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/vkp_00)
+
+---
+
+<div align="center">
+
+Building something with Java/Spring? Or just want to talk backend? Hit me up.
+
+[![vivekprajapat03@gmail.com](https://img.shields.io/badge/vivekprajapat03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekprajapat03@gmail.com)
+
+</div>
